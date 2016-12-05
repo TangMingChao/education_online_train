@@ -1,0 +1,690 @@
+# Logfile created on 2016-12-02 14:34:13 +0800 by logger.rb/v1.2.7
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Environment: development
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : No known dispatcher detected.
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Application: online_train (Development)
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Net instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:34:13 +0800 MC (10100)] INFO : Finished instrumentation
+[12/02/16 14:34:14 +0800 MC (10100)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:34:14 +0800 MC (10100)] INFO : Starting Agent shutdown
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Environment: development
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : No known dispatcher detected.
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Application: online_train (Development)
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Net instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:34:36 +0800 MC (10121)] INFO : Finished instrumentation
+[12/02/16 14:34:37 +0800 MC (10121)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:34:37 +0800 MC (10121)] INFO : Starting Agent shutdown
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : Environment: development
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : No known dispatcher detected.
+[12/02/16 14:34:58 +0800 MC (10129)] INFO : Application: online_train (Development)
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Net instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Finished instrumentation
+[12/02/16 14:34:59 +0800 MC (10129)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:35:18 +0800 MC (10129)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 14:38:52 +0800 MC (10129)] INFO : Starting Agent shutdown
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Environment: development
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : No known dispatcher detected.
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Application: online_train (Development)
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Net instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Finished instrumentation
+[12/02/16 14:38:58 +0800 MC (10251)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:39:05 +0800 MC (10251)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Environment: development
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : No known dispatcher detected.
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Application: online_train (Development)
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Net instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:44:52 +0800 MC (10413)] INFO : Finished instrumentation
+[12/02/16 14:44:56 +0800 MC (10413)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 14:45:40 +0800 MC (10413)] INFO : Starting Agent shutdown
+[12/02/16 14:47:05 +0800 MC (10251)] INFO : Starting Agent shutdown
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Environment: development
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : No known dispatcher detected.
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Application: online_train (Development)
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Net instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Finished instrumentation
+[12/02/16 14:47:10 +0800 MC (10505)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:47:14 +0800 MC (10505)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 14:53:46 +0800 MC (10505)] INFO : Starting Agent shutdown
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : Environment: development
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : No known dispatcher detected.
+[12/02/16 14:53:50 +0800 MC (10656)] INFO : Application: online_train (Development)
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing ActiveJob instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Net instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing deferred Rack instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Finished instrumentation
+[12/02/16 14:53:51 +0800 MC (10656)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 14:53:57 +0800 MC (10656)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 14:56:36 +0800 MC (10656)] INFO : Starting Agent shutdown
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Starting the New Relic agent in "development" environment.
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : New Relic Agent Developer Mode enabled.
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Environment: development
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : No known dispatcher detected.
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Application: online_train (Development)
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing ActiveJob instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Net instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing deferred Rack instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Rack::Builder middleware instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing ActiveRecord 4 instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Rails 3+ middleware instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Rails 4 view instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Rails 4 Error instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Installing Rails 4 Controller instrumentation
+[12/02/16 15:05:59 +0800 MC (10902)] INFO : Finished instrumentation
+[12/02/16 15:06:00 +0800 MC (10902)] INFO : Doing deferred dependency-detection before Rack startup
+[12/02/16 15:06:24 +0800 MC (10902)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/02/16 22:33:24 +0800 MC (10902)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[12/02/16 22:33:25 +0800 MC (10902)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-158.newrelic.com:443 after 44.338491583 seconds: Connection reset by peer - SSL_connect
+[12/02/16 22:34:15 +0800 MC (10902)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[12/02/16 22:34:16 +0800 MC (10902)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-158.newrelic.com:443 after 43.057702003 seconds: Connection reset by peer - SSL_connect
+[12/02/16 22:35:02 +0800 MC (10902)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[12/02/16 22:35:04 +0800 MC (10902)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-158.newrelic.com:443 after 36.723383173 seconds: Connection reset by peer - SSL_connect
+[12/02/16 22:35:46 +0800 MC (10902)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[12/02/16 22:35:49 +0800 MC (10902)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-158.newrelic.com:443 after 26.90645883 seconds: Connection reset by peer - SSL_connect
+[12/03/16 16:41:24 +0800 MC (6961)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:41:24 +0800 MC (6961)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:41:24 +0800 MC (6961)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:41:24 +0800 MC (6961)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Environment: development
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : No known dispatcher detected.
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Application: online_train (Development)
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Net instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:41:25 +0800 MC (6961)] INFO : Finished instrumentation
+[12/03/16 16:41:27 +0800 MC (6961)] INFO : Doing deferred dependency-detection before Rack startup
+[12/03/16 16:41:32 +0800 MC (6961)] INFO : Starting Agent shutdown
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Environment: development
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : No known dispatcher detected.
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Application: online_train (Development)
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Net instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:42:37 +0800 MC (6998)] INFO : Finished instrumentation
+[12/03/16 16:42:38 +0800 MC (6998)] INFO : Doing deferred dependency-detection before Rack startup
+[12/03/16 16:42:42 +0800 MC (6998)] INFO : Starting Agent shutdown
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Environment: development
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : No known dispatcher detected.
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Application: online_train (Development)
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Net instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:50:18 +0800 MC (7205)] INFO : Finished instrumentation
+[12/03/16 16:50:21 +0800 MC (7205)] INFO : Starting Agent shutdown
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Environment: development
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : No known dispatcher detected.
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Application: online_train (Development)
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Net instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:50:34 +0800 MC (7219)] INFO : Finished instrumentation
+[12/03/16 16:50:35 +0800 MC (7219)] INFO : Starting Agent shutdown
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Environment: development
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : No known dispatcher detected.
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Application: online_train (Development)
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Net instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:59:22 +0800 MC (7310)] INFO : Finished instrumentation
+[12/03/16 16:59:23 +0800 MC (7310)] INFO : Starting Agent shutdown
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Environment: development
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : No known dispatcher detected.
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Application: online_train (Development)
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing ActiveJob instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Net instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing deferred Rack instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 16:59:51 +0800 MC (7322)] INFO : Finished instrumentation
+[12/03/16 16:59:52 +0800 MC (7322)] INFO : Starting Agent shutdown
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Environment: development
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : No known dispatcher detected.
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Application: online_train (Development)
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing ActiveJob instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Net instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing deferred Rack instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 17:15:28 +0800 MC (7581)] INFO : Finished instrumentation
+[12/03/16 17:15:29 +0800 MC (7581)] INFO : Starting Agent shutdown
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Environment: development
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : No known dispatcher detected.
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Application: online_train (Development)
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing ActiveJob instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Net instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing deferred Rack instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 17:15:42 +0800 MC (7589)] INFO : Finished instrumentation
+[12/03/16 17:15:43 +0800 MC (7589)] INFO : Starting Agent shutdown
+[12/03/16 17:21:46 +0800 MC (7728)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 17:21:46 +0800 MC (7728)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 17:21:46 +0800 MC (7728)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Environment: development
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : No known dispatcher detected.
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Application: online_train (Development)
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing ActiveJob instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Net instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing deferred Rack instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 17:21:47 +0800 MC (7728)] INFO : Finished instrumentation
+[12/03/16 17:21:48 +0800 MC (7728)] INFO : Starting Agent shutdown
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Environment: development
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : No known dispatcher detected.
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Application: online_train (Development)
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing ActiveJob instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Net instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing deferred Rack instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 17:23:47 +0800 MC (7774)] INFO : Finished instrumentation
+[12/03/16 17:23:48 +0800 MC (7774)] INFO : Starting Agent shutdown
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Environment: development
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : No known dispatcher detected.
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Application: online_train (Development)
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing ActiveJob instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Net instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing deferred Rack instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 17:35:10 +0800 MC (7922)] INFO : Finished instrumentation
+[12/03/16 17:35:11 +0800 MC (7922)] INFO : Starting Agent shutdown
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : Environment: development
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : No known dispatcher detected.
+[12/03/16 18:53:19 +0800 MC (8925)] INFO : Application: online_train (Development)
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing ActiveJob instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Net instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing deferred Rack instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Finished instrumentation
+[12/03/16 18:53:20 +0800 MC (8925)] INFO : Starting Agent shutdown
+[12/03/16 18:58:33 +0800 MC (9012)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 18:58:33 +0800 MC (9012)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 18:58:33 +0800 MC (9012)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Environment: development
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : No known dispatcher detected.
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Application: online_train (Development)
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing ActiveJob instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Net instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing deferred Rack instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 18:58:34 +0800 MC (9012)] INFO : Finished instrumentation
+[12/03/16 18:58:35 +0800 MC (9012)] INFO : Starting Agent shutdown
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Environment: development
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : No known dispatcher detected.
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Application: online_train (Development)
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing ActiveJob instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Net instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing deferred Rack instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 19:00:09 +0800 MC (9029)] INFO : Finished instrumentation
+[12/03/16 19:01:22 +0800 MC (9029)] INFO : Starting Agent shutdown
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Environment: development
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : No known dispatcher detected.
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Application: online_train (Development)
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing ActiveJob instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Net instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing deferred Rack instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 21:08:01 +0800 MC (9949)] INFO : Finished instrumentation
+[12/03/16 21:08:22 +0800 MC (9949)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1120149/applications/11785030
+[12/03/16 21:09:14 +0800 MC (9949)] INFO : Starting Agent shutdown
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Environment: development
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : No known dispatcher detected.
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Application: online_train (Development)
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing ActiveJob instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Net instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing deferred Rack instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 21:09:51 +0800 MC (10045)] INFO : Finished instrumentation
+[12/03/16 21:09:53 +0800 MC (10045)] INFO : Starting Agent shutdown
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Environment: development
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : No known dispatcher detected.
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Application: online_train (Development)
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing ActiveJob instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Net instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing deferred Rack instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 22:09:00 +0800 MC (10602)] INFO : Finished instrumentation
+[12/03/16 22:09:01 +0800 MC (10602)] INFO : Starting Agent shutdown
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Starting the New Relic agent in "development" environment.
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : New Relic Agent Developer Mode enabled.
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Environment: development
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : No known dispatcher detected.
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Application: online_train (Development)
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing ActiveJob instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Net instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing deferred Rack instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Rack::Builder middleware instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing ActiveRecord 4 instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Rails 3+ middleware instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Rails 4 view instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Rails 4 Error instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Installing Rails 4 Controller instrumentation
+[12/03/16 22:09:14 +0800 MC (10608)] INFO : Finished instrumentation
+[12/03/16 22:09:15 +0800 MC (10608)] INFO : Starting Agent shutdown
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Starting the New Relic agent in "development" environment.
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : New Relic Agent Developer Mode enabled.
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Environment: development
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : No known dispatcher detected.
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Application: online_train (Development)
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing ActiveJob instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Net instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing deferred Rack instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Rack::Builder middleware instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing ActiveRecord 4 instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Rails 3+ middleware instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Rails 4 view instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Rails 4 Error instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Installing Rails 4 Controller instrumentation
+[12/04/16 14:07:21 +0800 MC (19306)] INFO : Finished instrumentation
+[12/04/16 14:07:24 +0800 MC (19306)] INFO : Starting Agent shutdown
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Starting the New Relic agent in "development" environment.
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : New Relic Agent Developer Mode enabled.
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Environment: development
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : No known dispatcher detected.
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Application: online_train (Development)
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing ActiveJob instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Net instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing deferred Rack instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Rack::Builder middleware instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing ActiveRecord 4 instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Rails 3+ middleware instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Rails 4 view instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Rails 4 Error instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Installing Rails 4 Controller instrumentation
+[12/04/16 14:10:00 +0800 MC (19372)] INFO : Finished instrumentation
+[12/04/16 14:10:01 +0800 MC (19372)] INFO : Starting Agent shutdown
+[12/05/16 10:34:01 +0800 MC (30804)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Environment: development
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : No known dispatcher detected.
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Application: online_train (Development)
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing ActiveJob instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Net instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing deferred Rack instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 10:34:02 +0800 MC (30804)] INFO : Finished instrumentation
+[12/05/16 10:34:03 +0800 MC (30804)] INFO : Starting Agent shutdown
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Environment: development
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : No known dispatcher detected.
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Application: online_train (Development)
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing ActiveJob instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Net instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing deferred Rack instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 12:13:52 +0800 MC (32601)] INFO : Finished instrumentation
+[12/05/16 12:13:54 +0800 MC (32601)] INFO : Starting Agent shutdown
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 12:32:32 +0800 MC (315)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 12:32:32 +0800 MC (315)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Environment: development
+[12/05/16 12:32:32 +0800 MC (315)] INFO : No known dispatcher detected.
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Application: online_train (Development)
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing ActiveJob instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Net instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing deferred Rack instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 12:32:32 +0800 MC (315)] INFO : Finished instrumentation
+[12/05/16 12:32:34 +0800 MC (315)] INFO : Starting Agent shutdown
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Environment: development
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : No known dispatcher detected.
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Application: online_train (Development)
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing ActiveJob instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Net instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing deferred Rack instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 15:42:21 +0800 MC (2242)] INFO : Finished instrumentation
+[12/05/16 15:42:24 +0800 MC (2242)] INFO : Starting Agent shutdown
+[12/05/16 15:49:06 +0800 MC (2426)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 15:49:06 +0800 MC (2426)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 15:49:06 +0800 MC (2426)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 15:49:06 +0800 MC (2426)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Environment: development
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : No known dispatcher detected.
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Application: online_train (Development)
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing ActiveJob instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Net instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing deferred Rack instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 15:49:07 +0800 MC (2426)] INFO : Finished instrumentation
+[12/05/16 15:49:09 +0800 MC (2426)] INFO : Starting Agent shutdown
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Environment: development
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : No known dispatcher detected.
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Application: online_train (Development)
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing ActiveJob instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Net instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing deferred Rack instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Finished instrumentation
+[12/05/16 17:00:44 +0800 MC (3819)] INFO : Starting Agent shutdown
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Environment: development
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : No known dispatcher detected.
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Application: online_train (Development)
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing ActiveJob instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Net instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing deferred Rack instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 17:03:34 +0800 MC (3902)] INFO : Finished instrumentation
+[12/05/16 17:03:36 +0800 MC (3902)] INFO : Starting Agent shutdown
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Environment: development
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : No known dispatcher detected.
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Application: online_train (Development)
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing ActiveJob instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Net instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing deferred Rack instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 18:55:00 +0800 MC (6965)] INFO : Finished instrumentation
+[12/05/16 18:55:01 +0800 MC (6965)] INFO : Starting Agent shutdown
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Starting the New Relic agent in "development" environment.
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Reading configuration from config/newrelic.yml (/home/mc/tallty/education_online_train)
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : New Relic Agent Developer Mode enabled.
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Environment: development
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : No known dispatcher detected.
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Application: online_train (Development)
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing ActiveJob instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Net instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing deferred Rack instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Rack::Builder middleware instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing ActiveRecord 4 instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Rails 3+ middleware instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Rails 4 view instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Rails 4 Error instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Installing Rails 4 Controller instrumentation
+[12/05/16 18:55:18 +0800 MC (6989)] INFO : Finished instrumentation
+[12/05/16 18:55:23 +0800 MC (6989)] INFO : Starting Agent shutdown
